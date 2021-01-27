@@ -5,7 +5,7 @@ image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-15
+date: 
 labels:
   - Javascript
   - Meteor
