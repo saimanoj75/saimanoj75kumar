@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/First-Commit.jpg
 title: First-Commit
 permalink: projects/First-Commit
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: A fun workshop to help students learn Git and GitHub. Originally created by @haxzie and remixed by Me! Leave a star if you like ✨.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/First-Commit.jpg">
 
 # Hello Developers :wave:
 ## Let's help you submit your first pull request
