@@ -5,7 +5,7 @@ image: images/cotton-square.png
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 
 labels:
   - Lisp
   - GitHub
