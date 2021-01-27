@@ -13,13 +13,15 @@ labels:
   - Deep Learning (NLP)
 summary: 
   • Vehicle Make and Model Recognition is a Deep Learning based application indented for traffic maintenance.
-  • Control and self control drive assistance etc,It would take the image of a vehicle from a picture or a video and indicates and classification the vehicle to its make and model.
-  • The model is made of Convolutional Neural Network.
-  • Using the transfer learning the model has achieved a top accuracy score of 93 Percentage.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Vehicle-Make-and-Model-Recognition-System.jpg">
 
+• Vehicle Make and Model Recognition is a Deep Learning based application indented for traffic maintenance.
+  • Control and self control drive assistance etc,It would take the image of a vehicle from a picture or a video and indicates and classification the vehicle to its make and model.
+  • The model is made of Convolutional Neural Network.
+  • Using the transfer learning the model has achieved a top accuracy score of 93 Percentage.
+  
 Detection and recognition of automobiles is an essential role in the territory of traffic regulation and management. Commonly, to handle this task, broad databases and area specific features are used to better suit the data. In our undertaking, we build test and test classifiers on a self-build small dataset for the goal of classification and identification of cars into their make and model from their images from media devices. We try different things with various degrees of transfer learning to fit the models to our domain. We report and contrast these outcomes with that of standard models, and talk about the points of interest of this methodology.
 
 Vehicle is a great invention in human history. Since then it has become an integral part of modern people’s life. The utilization of a colossal enormous number of vehicles mirrors the populace's portability, closeness, monetary, etc, and the examination of vehicle conduct is extremely critical for urban turn of events and government dynamic.
