@@ -16,10 +16,37 @@ summary: A fun workshop to help students learn Git and GitHub. Originally create
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+# Hello Developers :wave:
+## Let's help you submit your first pull request
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+follow the instructions [here](https://distracted-austin-75827a.netlify.app/) to get started. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da484a9c-c788-4f47-b06d-e4f85ae54c95/deploy-status)](https://app.netlify.com/sites/distracted-austin-75827a/deploys)
+
+## Setting up the project for development
+Make sure you have latest version of Node and NPM installed. 
+
+- Install GatsbyCLI globally. Refer the [Gatsby Docs](https://www.gatsbyjs.org/docs/) for information regarding the framework.
+  ```sh
+  npm install --global gatsby-cli
+  ```
+- Fork and Clone the repository
+  ```sh
+  git clone https://github.com/YOUR_USERNAME/GitMe
+  ```
+- Install all the node dependencies
+  ```sh
+  cd GitMe
+  npm install
+  ```
+- Run the app in development mode
+  ```
+  gatsby develop
+  ```
+- for Build
+  ```
+  gatsby build
+  ```
+
  
 Source: <a href="https://github.com/saimanoj75/First-Commit"><i class="large github icon"></i>saimanoj75/First-Commit</a>
