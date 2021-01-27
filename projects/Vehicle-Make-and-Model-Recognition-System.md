@@ -7,10 +7,10 @@ permalink: projects/Vehicle-Make-and-Model-Recognition-System
 # All dates must be YYYY-MM-DD format!
 date: 
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Python
+  - Tensor Flow
+  - Google Colab
+  - Deep Learning (NLP)
 summary: • Vehicle Make and Model Recognition is a Deep Learning based application indented for traffic maintenance. 
          • Control and self control drive assistance etc,It would take the image of a vehicle from a picture or a video and indicates and classification the vehicle to its make and model. 
          • The model is made of Convolutional Neural Network. 
