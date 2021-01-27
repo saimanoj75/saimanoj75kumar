@@ -7,10 +7,11 @@ permalink: projects/First-Commit
 # All dates must be YYYY-MM-DD format!
 date: 
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - HTML
+  - CSS
   - GitHub
+  - Gatsby
+  - Netlify
 summary: A fun workshop to help students learn Git and GitHub. Originally created by @haxzie and remixed by Me! Leave a star if you like ✨.
 ---
 
