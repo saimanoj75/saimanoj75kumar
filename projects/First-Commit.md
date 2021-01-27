@@ -5,13 +5,13 @@ image: images/vacay-square.png
 title: First-Commit
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-15
+date: 
 labels:
   - Javascript
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A fun workshop to help students learn Git and GitHub. Originally created by @haxzie and remixed by Me! Leave a star if you like ✨.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
@@ -22,4 +22,4 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/saimanoj75/Vacay"><i class="large github icon"></i>saimanoj75/Vacay</a>
+Source: <a href="https://github.com/saimanoj75/First-Commit"><i class="large github icon"></i>saimanoj75/First-Commit</a>
