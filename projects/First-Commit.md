@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: First-Commit
-permalink: projects/vacay
+permalink: projects/First-Commit
 # All dates must be YYYY-MM-DD format!
 date: 
 labels:
