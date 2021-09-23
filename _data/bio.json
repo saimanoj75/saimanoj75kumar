@@ -5,7 +5,7 @@
     "picture": "https://saimanoj75.github.io/images/sai.jpg",
     "email": "saimanojseshagiri3@gmail.com",
     "phone": "950-595-5568",
-    "summary": "Google Cloud Platform | Front End Developer | Spark AR Facilitator | Mozilla IN",
+    "summary": "Google Cloud Platform | Front End Developer | Spark AR Facilitator",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,46 +35,48 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Working as a bridge between university students and Facebook to help them with conceptsin Spark AR and work on real-time challenges that can be solved with the help of technology",
-        "Introduced Build an Effect with 2D and 3D object with World effects layer AR experiences on surfaces, objects and people in your environment and are viewable using the world-facing camera on your Smart Phone.",
-        "To Support Developer Circles from Facebook and Enthusiastic People in Spark AR Technology"
+        "Selected for Spark AR Awareness South Summit - 2020 Highest point 50+ Individuals Students along with Faculty & Industry Professional among Five States In South India",
+        "Working as a bridge between University Students and Facebook to help them with concepts in Spark AR and work on real-time challenges that can be solved with the help of technology",
+        "Introduced Build an Effect with 2D and 3D objects with World effects layer AR experiences on surfaces, objects, and people in your environment and are viewable using the world-facing camera on your Smart Phone",
+	 " Collaborated with Leadership Team of Facebook Developer's Circle and Spark AR Studio"     
       ]
     },
     {
       "company": "SanRon Consultancy Services",
       "position": "Software Developer Intern",
-      "website": "https://www.sanronit.com/",
+      "website": "",
       "startDate": "2020-08-17",
       "endDate": "2020-10-17",
       "summary": "",
       "highlights": [
-        "I have worked on a live project of “Designing and Developing an Ed-Tech the software product",
-        " I have Mainly Worked on the Front End Development and En-Handling my hands-on skills in Laravel, jQuery, SCSS, JavaScript"
+        "Developed a Site on Ed Tech for Planning and Fostering an Ed-Tech Programming Item",
+        "Primarily worked toward the  Front End Development Progression Design and Development with Figma",
+	"Developed a Front End web application using JavaScript, jQuery, Sass and Laravel as Server Side"
       ]
     }
   ],
-  "interests": [
+ <!-- "interests": [
     {
-      "name": "Computer Networking",
+      "name": "",
       "keywords": [
       ]
     },
     {
-      "name": "Big Data",
+      "name": "",
       "keywords": [
       ]
     },
     {
-      "name": "Cloud Computing",
+      "name": "",
       "keywords": [
       ]
     },
     {
-      "name": "Web Development",
+      "name": "",
       "keywords": [
       ]
     }
-  ],
+  ],-->
   "skills": [
     {
       "name": "Programming Languages",
@@ -116,16 +118,20 @@
   ],
   "education": [
     {
-      "institution": "Sagi Ramakrishnam Raju Engineering College, Bhimavaram, IN",
+      "institution": "Sagi Rama Krishnam Raju Engineering College, Bhimavaram, IN",
       "area": "Computer Science",
-      "studyType": "Bachelor of Technology [B.Tech]",
+      "studyType": "Bachelor of Technology",
       "startDate": "2017-06-06",
-      "endDate": "Present",
+      "endDate": "2020-10-10",
       "gpa": "",
       "courses": [
-	      "Data Structures",
-	      "Cloud Computeing",
-	      "Operating System"
+	      "Mozilla Campus Club SRKR",
+	      "Joint Secretary for Volunteer Service Group (2018-19)",
+	      "Media Coordinators for Volunteer Service Group (2017-18)"
+	      "Event Coordinator & Photography at Nation Level Symposium",
+	      "Blood Organizer for Friends2Support KKD",
+	      "City Lead for Aasya Bhimavaram",
+	      "Volunteer for The Red Cross Society (2017-20)"
       ]
     },
     {
