@@ -55,67 +55,7 @@
       ]
     }
   ],
- <!-- "interests": [
-    {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    }
-  ],-->
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": [
-        "R",
-        "C++",
-        "Javascript",
-        "Python",
-        "HTML",
-        "CSS"
-      ]
-    },
-	{
-      "name": "Operating System",
-      "level": "",
-      "keywords": [
-        "Windows",
-        "Linux"
-      ]
-    },
-	{
-      "name": "Data Base ",
-      "level": "",
-      "keywords": [
-        "MySQL",
-        "MongoDB"
-      ]
-    },
-	{
-      "name": "Frame Work & Toolsets ",
-      "level": "",
-      "keywords": [
-        "React",
-        "GitHub",
-		"Spark AR"
-      ]
-    }
-  ],
+
   "education": [
     {
       "institution": "Sagi Rama Krishnam Raju Engineering College, Bhimavaram, IN",
