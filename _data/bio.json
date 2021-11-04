@@ -25,4 +25,112 @@
         "url": "http://linkedin.com/in/saimanoj75"
       }
     ]
-  }
+  },
+    "work": [
+    {
+      "company": "The School of Innovation from Facebook",
+      "position": "Spark AR Facilitator",
+      "website": "",
+      "startDate": "2020-03-23",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Selected for Spark AR Awareness South Summit - 2020 Highest point 50+ Individuals Students along with Faculty & Industry Professional among Five States In South India",
+        "Working as a bridge between University Students and Facebook to help them with concepts in Spark AR and work on real-time challenges that can be solved with the help of technology",
+        "Introduced Build an Effect with 2D and 3D objects with World effects layer AR experiences on surfaces, objects, and people in your environment and are viewable using the world-facing camera on your Smart Phone",
+	 " Collaborated with Leadership Team of Facebook Developer's Circle and Spark AR Studio"     
+      ]
+    },
+    {
+      "company": "SanRon Consultancy Services",
+      "position": "Software Developer Intern",
+      "website": "",
+      "startDate": "2020-08-17",
+      "endDate": "2020-10-17",
+      "summary": "",
+      "highlights": [
+        "Developed a Site on Ed Tech for Planning and Fostering an Ed-Tech Programming Item",
+        "Primarily worked toward the  Front End Development Progression Design and Development with Figma",
+	"Developed a Front End web application using JavaScript, jQuery, Sass and Laravel as Server Side"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Sagi Rama Krishnam Raju Engineering College, Bhimavaram, IN",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2017-06-06",
+      "endDate": "2020-10-10",
+      "gpa": "",
+      "courses": [
+	      "Mozilla Campus Club SRKR",
+	      "Joint Secretary for Volunteer Service Group (2018-19)",
+	      "Media Coordinators for Volunteer Service Group (2017-18)"
+	      "Event Coordinator & Photography at Nation Level Symposium",
+	      "Blood Organizer for Friends2Support KKD",
+	      "City Lead for Aasya Bhimavaram",
+	      "Volunteer for The Red Cross Society (2017-20)"
+      ]
+    },
+    {
+      "institution": "Sir C Ramalinga Reddy Polytechnic, Eluru, IN",
+      "area": "Computer Engineering",
+      "studyType": "Diploma",
+      "startDate": "2012-06-06",
+      "endDate": "2017-03-25",
+      "gpa": "",
+      "courses": [
+	      "Web Development",
+	      ".Net",
+	      "Operating System"
+      ]
+    }	  
+  ],
+  "volunteer": [
+    {
+      "organization": "Friends2Support",
+      "website": "https://www.friends2support.org/",
+      "position": "Volunteer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Safer, by bringing blood donors and those in need to a common platform.",
+        "Better, by providing every person what he/she deserves the most, best education"
+      ]
+    },
+    {
+      "organization": "Helping Hands For Raising Society",
+      "website": "",
+      "position": "Blood Organizer",
+      "startDate": "2015-03-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "మనవసేవే - మాధవసేవ"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Anna Radulovski",
+      "reference": "Saimanoj is a skilled Front End Developer passionate about community building and open source.At WomenTech Network, he plays an essential role as a Global Ambassador helping to unite 100000 women in tech to drive change with purpose and impact. We are delighted to have such a strong connector and influencer as part of our network, and we are looking forward to further advance our mission together through the WomenTech Global Conference and other initiatives."
+    }
+  ]
+}
